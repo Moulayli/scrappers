@@ -5,6 +5,8 @@
     use Symfony\Component\HttpClient\HttpClient;
    
     $client=new Client();
+
+    var_dump("rrr");
     //$client = new Client(HttpClient::create(['verify_peer' => false, 'verify_host' => false]));
     //This produces foo=1&bar=2&bar=3&baz=4
     
@@ -50,8 +52,7 @@
         }
     );
 
-    
-*/
+    */
 /*
     $crawler = $client->request('GET', 'https://fr.indeed.com/emplois?l=Mayotte&fromage=1&vjk=4c9af47a8ab933e4');
    //echo($crawler->html());

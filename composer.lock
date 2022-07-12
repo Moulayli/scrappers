@@ -129,7 +129,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.0.0"
+                "php": ">=7.4.0"
             },
             "type": "library",
             "extra": {
@@ -179,7 +179,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.0.2",
+                "php": ">=7.4.0",
                 "symfony/dom-crawler": "^5.4|^6.0"
             },
             "require-dev": {
@@ -250,7 +250,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.0.2"
+                "php": ">=7.4.0"
             },
             "type": "library",
             "autoload": {
@@ -315,7 +315,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.0.2",
+                "php": ">=7.4.0",
                 "symfony/polyfill-ctype": "~1.8",
                 "symfony/polyfill-mbstring": "~1.0"
             },
@@ -388,7 +388,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.0.2",
+                "php": ">=7.4.0",
                 "psr/log": "^1|^2|^3",
                 "symfony/http-client-contracts": "^3",
                 "symfony/service-contracts": "^1.0|^2|^3"
@@ -472,7 +472,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.0.2"
+                "php": ">=7.4.0"
             },
             "suggest": {
                 "symfony/http-client-implementation": ""
@@ -550,7 +550,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.0.2",
+                "php": ">=7.4.0",
                 "symfony/polyfill-intl-idn": "^1.10",
                 "symfony/polyfill-mbstring": "^1.0"
             },
@@ -1043,7 +1043,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.0.2",
+                "php": ">=7.4.0",
                 "psr/container": "^2.0"
             },
             "conflict": {
